@@ -6,7 +6,7 @@ Makeblock-USB-Driver
  sudo nvram boot-args="kext-dev-mode=1"
  * Reboot
 
- Makeblock Orion or mBot on OSX El Capitan. Just like Yosemite, El Capitan requires kext driver signing. How this can be disabled in OSX 10.11 is changed however.
+Makeblock Orion or mBot on OSX El Capitan. Just like Yosemite, El Capitan requires kext driver signing. How this can be disabled in OSX 10.11 is changed however.
 To get the drivers to work in El Capitan you need to use the new tool csrutil as follows:
  * Reboot and press CMD+R immediately after hearing the startup sound to boot to Recovery Mode
  * Open Terminal
