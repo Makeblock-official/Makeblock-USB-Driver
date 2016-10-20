@@ -13,3 +13,5 @@ To get the drivers to work in El Capitan you need to use the new tool csrutil as
  * Execute the following command: csrutil enable --without kext
  * Reboot
 After rebooting you should see your serial ports again in the Arduino IDE or mBlock so you can program your Me Orion (or any other Arduino compatible device using CH340/CH341) again.
+
+###Learn more from Makeblock official website: www.makeblock.com
